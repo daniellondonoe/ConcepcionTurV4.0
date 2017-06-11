@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">"Restaurante Rico Pa Rico "</string>
+
+    <string name="action_settings">Configuración</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_carrito">Añadir al carrito</string>
+
+    <string name="item_inicio">Inicio</string>
+    <string name="item_cuenta">Mi Cuenta</string>
+    <string name="item_categorias">Categorías</string>
+    <string name="item_configuracion">Configuración</string>
+
+    <string name="titulo_comidas_populares">Lo más pedido</string>
+
+    <string name="titulo_tab_platillos">PLATILLOS</string>
+    <string name="titulo_tab_bebidas">BEBIDAS</string>
+    <string name="titulo_tab_postres">POSTRES</string>
+
+    <string name="titulo_tab_perfil">PERFIL</string>
+    <string name="titulo_tab_direcciones">DIRECCIONES</string>
+    <string name="titulo_tab_tarjetas">TARJETAS</string>
+
+    <string name="texto_no_tarjetas">No tienes ninguna tarjeta asociada</string>
+
+    <string name="etiqueta_carrito">Carrito</string>
+
+    <string name="texto_cambiar_contrasena">Cambia tu contraseña</string>
+    <string name="etiqueta_contrasena">Contraseña</string>
+    <string name="etiqueta_info_usuario">Información del usuario</string>
+
+
+    <string name="Boton1">Registrase</string>
+    <string name="title_activity_registro">Registro</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_perfil">Perfil</string>
+    <string name="titulo">Concepción</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="iniciarSes">Iniciar Sesión</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="reppassword">Repetir contraseña</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="miPerfil">Mi Perfil</string>
+    <string name="cerrarSesion">Cerrar Sesión</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hotel1">Finca hotel Villa Linda</string>
+    <string name="hotel2">Hotel La Vega</string>
+    <string name="hotel3">Hotel Municipal Doña Pascuala Muñoz</string>
+    <string name="restaurante1">Restaurante Disko Bar Kanabw</string>
+    <string name="restaurante2">Restaurante Villa Linda</string>
+    <string name="restaurante3">Restaurante Sazón Las Conchitas</string>
+    <string name="lugar1">Parque Principal José María Cordova</string>
+    <string name="lugar2">Casa de la cultura</string>
+    <string name="lugar3">Sensero Alto de la virgen</string>
+    <string name="Hotel1">Hotel 1</string>
+    <string name="Hotel2">Hotel 2</string>
+    <string name="Hotel3">Hotel 3</string>
+    <string name="Restaurante1">Rest 1</string>
+    <string name="Restaurante2">Rest 2</string>
+    <string name="Restaurante3">Rest 3</string>
+    <string name="Lugar1">Lugar 1</string>
+    <string name="Lugar2">Lugar 2</string>
+    <string name="Lugar3">Lugar 3</string>
+    <string name="title_activity_hotel">Hoteles</string>
+    <string name="title_activity_restaurante">Restaurantes</string>
+    <string name="title_activity_lugar">Lugares Turísticos</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Hoteles">Hoteles</string>
+    <string name="Restaurantes">Restaurantes</string>
+    <string name="Lugares">Lugares Turíticos</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
